@@ -1,0 +1,17 @@
+{
+  "extends": ["tslint:latest"],
+  "rules": {
+    "quotemark": [true, "single"],
+    "no-submodule-imports": false,
+    "member-access": [false],
+    "noUnusedParameters": true,
+    "ordered-imports": false,
+    "interface-name": false,
+    "object-literal-sort-keys": false,
+    "max-classes-per-file": false,
+    "prefer-const": false,
+    "no-console": false,
+    "no-trailing-whitespace": false,
+    "max-line-length": false
+  }
+}

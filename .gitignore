@@ -1,0 +1,12 @@
+
+node_modules
+**.*logs
+
+.idea/**
+.env
+yarn**.log
+build/**
+
+
+./dist
+dist/**
